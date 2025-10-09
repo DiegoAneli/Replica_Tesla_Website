@@ -4,6 +4,14 @@
 🧑‍💻
 
 ---
+
+![Screenshot dell app](./images/screenshot.png)
+
+
+
+
+
+
 🔨
 | Nome | Linguaggio | Versione |
 |------|------------|----------|      
